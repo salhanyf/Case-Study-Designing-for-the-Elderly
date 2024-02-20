@@ -21,6 +21,9 @@ We created personas representing typical users, including their needs, challenge
 Our design focuses on simplicity and accessibility
 
 ### Sketches and Wireframes
+To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
+
+![Initial Sketches](/assets/img/sketch.png "Initial Sketches"))
 
 ### Mockups
 
