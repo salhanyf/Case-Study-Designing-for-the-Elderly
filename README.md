@@ -24,6 +24,7 @@ Our design focuses on simplicity and accessibility
 To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
 
 ![Initial Sketches](/assets/img/sketch.png "Initial Sketches")
+![sketch](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/2438c8c2-6da0-4cf8-994f-186a30852af0)
 
 ### Mockups
 
