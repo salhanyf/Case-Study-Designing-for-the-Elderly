@@ -37,16 +37,23 @@ We created personas representing typical users, including their needs, challenge
 
 ## The Solution 
 
-### Design choices
-Our design focuses on simplicity and accessibility. The first thing to consider for the design process is to chose a color pallete to ensure visual comfort and accessibility for the eldery users. The selected colors are not only aesthetically pleasing but also carry a deeper resonance with the app's core functions of health and social connection. Our palette includes a serene soft blue, invoking a sense of calm and reliability. Complementing this is a warm beige, offering a neutral backdrop that send out warmth and welcome. In addition, the light green in the pallete reflects vitality and harmony, essential for an app centered on health like Mind Buddy.
-
-![Color Palette](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/8ac084d1-0fd8-4289-81df-781e7d2c96bf)
-
+### Design Choices
 
 ### Sketches and Wireframes
 To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
 
 ![Initial Sketches](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/2438c8c2-6da0-4cf8-994f-186a30852af0)
+
+### Colours and Fonts
+Our design focuses on simplicity and accessibility. before creating the mockups, we focused on having the appropriate color pallete and font family to ensure visual comfort and accessibility for the eldery users. The selected colors are not only aesthetically pleasing but also carry a deeper resonance with the app's core functions of health and social connection. Our palette includes a serene soft blue, invoking a sense of calm and reliability. Complementing this is a warm beige, offering a neutral backdrop that send out warmth and welcome. In addition, the light green in the pallete reflects vitality and harmony, essential for an app centered on health like Mind Buddy.
+
+![Color Palette](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/8ac084d1-0fd8-4289-81df-781e7d2c96bf)
+
+As for the font family, the team decided to use Helvetica as a primary font and Tahoma as a seconday font family. These fonts are not only accessible but also designed to be legible acreoss various devices and resolutions, making them ideal for users who may have cisual impairments.
+
+![Helveticafont](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/b55b0fe5-ab56-4145-a3d3-f6e0a2450561)
+
+![Tahomafont](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/e031b2bd-6fcc-4816-9dcb-bbfedff10ed6)
 
 ### Mockups
 
@@ -54,3 +61,6 @@ To develope the project, initial sketches and wireframes were needed to layout t
 " " addresses the critical needs of the elderly for health management and social interaction, promising to make a significant impact on their quality of life.
 
 ## References
+https://en.wikipedia.org/wiki/Tahoma_%28typeface%29 <br>
+
+https://en.wikipedia.org/wiki/Helvetica#:~:text=Helvetica%2C%20also%20known%20by%20its,Classification <br>
