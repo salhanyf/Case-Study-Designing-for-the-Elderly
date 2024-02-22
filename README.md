@@ -35,7 +35,7 @@ Surveys conducted with potential users highlighted a need for an intuitive app t
 ### User Personas
 We created personas representing typical users, including their needs, challenges, and how our app could enhance their daily routines.
 
-## The Solution 
+## The Solution
 
 ### Design Choices
 
@@ -51,9 +51,10 @@ Our design focuses on simplicity and accessibility. before creating the mockups,
 
 As for the font family, the team decided to use Helvetica as a primary font and Tahoma as a seconday font family. These fonts are not only accessible but also designed to be legible acreoss various devices and resolutions, making them ideal for users who may have visual impairments.<br>
 
-<img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/b55b0fe5-ab56-4145-a3d3-f6e0a2450561" width="48%" height="48%" align="left">
-
-<img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/e031b2bd-6fcc-4816-9dcb-bbfedff10ed6" width="48%" height="48%" align="right"><br><br>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/b55b0fe5-ab56-4145-a3d3-f6e0a2450561" alt="Font 1" width="400" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/e031b2bd-6fcc-4816-9dcb-bbfedff10ed6" alt="Font 2" width="400" style="margin-left: 10px;"/>
+</div>
 
 ### Mockups
 
