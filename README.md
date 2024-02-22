@@ -39,6 +39,10 @@ We created personas representing typical users, including their needs, challenge
 
 ### Design choices
 Our design focuses on simplicity and accessibility
+The first thing to consider for the design process is to chose a color pallete to ensure visual comfort and accessibility for the eldery users. The selected colors are not only aesthetically pleasing but also carry a deeper resonance with the app's core functions of health and social connection. Our palette includes a serene soft blue, invoking a sense of calm and reliability. Complementing this is a warm beige, offering a neutral backdrop that send out warmth and welcome. In addition, the light green in the pallete reflects vitality and harmony, essential for an app centered on health like Mind Buddy.
+
+![Color Palette](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/8ac084d1-0fd8-4289-81df-781e7d2c96bf)
+
 
 ### Sketches and Wireframes
 To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
