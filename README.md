@@ -53,7 +53,7 @@ As for the font family, the team decided to use Helvetica as a primary font and 
 
 <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/b55b0fe5-ab56-4145-a3d3-f6e0a2450561" width="48%" height="48%" align="left">
 
-<img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/e031b2bd-6fcc-4816-9dcb-bbfedff10ed6" width="48%" height="48%" align="right">
+<img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/e031b2bd-6fcc-4816-9dcb-bbfedff10ed6" width="48%" height="48%" align="right"><br>
 
 ### Mockups
 
