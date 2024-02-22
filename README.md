@@ -49,7 +49,7 @@ Our design focuses on simplicity and accessibility. before creating the mockups,
 
 ![Color Palette](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/8ac084d1-0fd8-4289-81df-781e7d2c96bf)
 
-As for the font family, the team decided to use Helvetica as a primary font and Tahoma as a seconday font family. These fonts are not only accessible but also designed to be legible acreoss various devices and resolutions, making them ideal for users who may have visual impairments.
+As for the font family, the team decided to use Helvetica as a primary font and Tahoma as a seconday font family. These fonts are not only accessible but also designed to be legible acreoss various devices and resolutions, making them ideal for users who may have visual impairments.<br>
 
 <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/b55b0fe5-ab56-4145-a3d3-f6e0a2450561" width="48%" height="48%" align="left">
 
