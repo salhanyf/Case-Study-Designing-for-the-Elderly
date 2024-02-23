@@ -38,8 +38,6 @@ We created personas representing typical users, including their needs, challenge
 
 ## The Solution
 
-### Design Choices
-
 ### Sketches and Wireframes
 To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
 
