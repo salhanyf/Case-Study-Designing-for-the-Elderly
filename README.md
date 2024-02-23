@@ -11,6 +11,7 @@ In an era where the digital landscape dominates our routines, the elderly find t
 **ENTER MIND BUDDY**, a solution that aims to revolutionize elderly care by seamlessly integrating health management with enriching social engagement. This innovative application not only simplifies daily tasks, exercise routines, medication reminder but also introduces an element of joy through daily puzzles and challenges that ignite the mind, available upon task completion. Uniquely, to enhance the social life of the elderly during isolation, the app incorporates family call scheduler to seamlessly organize and enhance communication with loved ones. Mind Buddy aspires to be more than a digital tool; it seeks to be a comprehensive companion, enhancing the quality of life for seniors by fostering a supportive and interactive community.
 
 ## Research and Analysis
+In this section we unpack our findings as we take a close look at how today's seniors interact with technology and manage their health and social lives. This includes analyzing market trends, reviewing existing applications, and most importantly, listening to the stories and experiences of the seniors themselves.
 
 ### Current Market
 In the current market, there exists a variety of applications targeting the elderly demographic, focusing on aspects such as health management, social connectivity, and cognitive engagement. However, our analysis revealed significant gaps in providing a user-friendly experience that caters to the comprehensive needs of the elderly.
