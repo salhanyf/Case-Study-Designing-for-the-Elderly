@@ -31,7 +31,47 @@ Given these insights, Mind Buddy positions itself uniquely in the market by addr
 The emphasis on simplicity and accessibility in the design of Mind Buddy, with considerations for the elderly's unique user experience requirements, sets it apart from existing offerings. By providing a holistic solution that caters to the multi-faceted needs of the elderly, Mind Buddy aims to enhance their quality of life significantly, making it a pioneering app in the elderly care market.
 
 ### Surveys
-Surveys conducted with potential users highlighted a need for an intuitive app that combines medication reminders, exercise prompts, and easy ways to connect with family.
+In an effort to tailor the Mind Buddy app to the specific needs and preferences of its target demographic, our team conducted a face-to-face survey with 30 elderly individuals at a local mall. This setting was chosen for its accessibility and the likelihood of encountering a diverse group of seniors in a relaxed environment.
+
+**Survey Process**
+
+* Participants: The survey involved 30 elderly individuals, with an age range of 65 to 85 years. Efforts were made to ensure a balanced representation in terms of gender, background, and technological familiarity.
+* Questionnaire Design: The questionnaire was designed to be elderly-friendly, featuring large print and straightforward language. It included a mix of closed and open-ended questions to capture both quantitative and qualitative data.
+* Survey Execution: The surveys were conducted in person, with team members assisting participants as needed to ensure clarity and comfort, thereby enhancing the reliability of the collected data.
+
+Our questionnaire consisted of the following questions:
+**Do you use a smartphone or tablet?
+Do you find current apps easy to use?
+Are you currently taking medication that you need to take regularly?
+Would you use an app that reminds you to take your medication?
+Would you be interested in an app that suggests daily exercises based on your health conditions?
+Would you use a feature within an app to easily video call with family and friends?
+Do you enjoy puzzles or games that challenge your mind?
+What is the most important feature you look for in an app? (Open-ended, summarized responses)**
+
+After conducting our surveys we observed the following results:
+
+<img width="451" alt="Screen Shot 2024-02-24 at 12 11 44 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/e0e993d8-e079-4b9f-a3b3-a17abeccbb82">
+<img width="474" alt="Screen Shot 2024-02-24 at 12 11 54 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/fedf2d58-a7d1-402a-8253-e43eee0669c3">
+<img width="566" alt="Screen Shot 2024-02-24 at 12 12 03 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/117ce5cd-2b7a-4e01-92f2-5b8e080ef32c">
+<img width="574" alt="Screen Shot 2024-02-24 at 12 12 15 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/541807bf-b4c0-4acd-858e-fedea357bff1">
+<img width="767" alt="Screen Shot 2024-02-24 at 12 12 30 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/f4a03781-70ee-4deb-abc3-6c33806c4c70">
+<img width="675" alt="Screen Shot 2024-02-24 at 12 12 43 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/086e8a70-dd49-4910-a26e-bac42ecfa5c5">
+<img width="485" alt="Screen Shot 2024-02-24 at 12 12 58 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/63afc19f-3fa9-461e-bba8-6a49ee626043">
+<img width="823" alt="Screen Shot 2024-02-24 at 12 16 10 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/69294924-31b5-4757-bbe1-b3b718acb9c2">
+
+
+**Analysis**
+The responses to the survey questions reveal significant insights into the preferences and needs of the elderly demographic regarding technology use, particularly in the context of health management, physical activity, social interactions, and cognitive engagement.
+* The high percentage of smartphone and tablet users among the respondents indicates a potential user base for the Mind Buddy app.
+* The difficulty expressed by 60% of participants in using current apps underscores the need for a more user-friendly interface tailored to the elderly.
+* The strong interest in medication reminders, exercise suggestions, and video calling features demonstrates a clear demand for these functionalities within the target user group.
+* The overwhelming preference for simplicity, large interface elements, and voice commands informs the design principles that should guide the development of Mind Buddy to ensure its accessibility and usability for elderly users.
+
+These findings will be instrumental in the design and development phases of Mind Buddy, ensuring that the app not only meets the expressed needs of its intended user base but also provides a seamless and enjoyable user experience.
+
+
+
 
 ### User Personas
 We created personas representing typical users, including their needs, challenges, and how our app could enhance their daily routines.
