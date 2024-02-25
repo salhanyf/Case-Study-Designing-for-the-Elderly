@@ -44,14 +44,14 @@ In an effort to tailor the Mind Buddy app to the specific needs and preferences 
 * Survey Execution: The surveys were conducted in person, with team members assisting participants as needed to ensure clarity and comfort, thereby enhancing the reliability of the collected data.
 
 Our questionnaire consisted of the following questions:
-**Do you use a smartphone or tablet?
-Do you find current apps easy to use?
-Are you currently taking medication that you need to take regularly?
-Would you use an app that reminds you to take your medication?
-Would you be interested in an app that suggests daily exercises based on your health conditions?
-Would you use a feature within an app to easily video call with family and friends?
-Do you enjoy puzzles or games that challenge your mind?
-What is the most important feature you look for in an app? (Open-ended, summarized responses)**
+1. Do you use a smartphone or tablet?
+2. Do you find current apps easy to use?
+3. Are you currently taking medication that you need to take regularly?
+4. Would you use an app that reminds you to take your medication?
+5. Would you be interested in an app that suggests daily exercises based on your health conditions?
+6. Would you use a feature within an app to easily video call with family and friends?
+7. Do you enjoy puzzles or games that challenge your mind?
+8. What is the most important feature you look for in an app? (Open-ended, summarized responses)
 
 After conducting our surveys we observed the following results:
 
@@ -81,9 +81,6 @@ The responses to the survey questions reveal significant insights into the prefe
 * The overwhelming preference for simplicity, large interface elements, and voice commands informs the design principles that should guide the development of Mind Buddy to ensure its accessibility and usability for elderly users.
 
 These findings will be instrumental in the design and development phases of Mind Buddy, ensuring that the app not only meets the expressed needs of its intended user base but also provides a seamless and enjoyable user experience.
-
-
-
 
 ### User Personas
 We created personas representing typical users, including their needs, challenges, and how our app could enhance their daily routines.
