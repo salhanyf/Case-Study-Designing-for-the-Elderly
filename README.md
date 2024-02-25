@@ -85,8 +85,7 @@ These findings will be instrumental in the design and development phases of Mind
 ### User Personas
 We created personas representing typical users, including their needs, challenges, and how our app could enhance their daily routines.
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/blob/main/assets/img/personas_mini_proj.png" alt="Helvetica" width="50%" style="margin-right: 10px;"/>
-
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/acdce860-e4b2-4b3a-acc8-c87f9ed4bab2" alt="User Personas" width="100%"/>
 </div>
 
 ## The Solution
