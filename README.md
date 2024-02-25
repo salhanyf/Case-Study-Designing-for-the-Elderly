@@ -51,15 +51,22 @@ What is the most important feature you look for in an app? (Open-ended, summariz
 
 After conducting our surveys we observed the following results:
 
-<img width="450" alt="Screen Shot 2024-02-24 at 12 11 44 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/e0e993d8-e079-4b9f-a3b3-a17abeccbb82">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 11 54 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/fedf2d58-a7d1-402a-8253-e43eee0669c3">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 12 03 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/117ce5cd-2b7a-4e01-92f2-5b8e080ef32c">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 12 15 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/541807bf-b4c0-4acd-858e-fedea357bff1">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 12 30 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/f4a03781-70ee-4deb-abc3-6c33806c4c70">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 12 43 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/086e8a70-dd49-4910-a26e-bac42ecfa5c5">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 12 58 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/63afc19f-3fa9-461e-bba8-6a49ee626043">
-<img width="450" alt="Screen Shot 2024-02-24 at 12 16 10 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/69294924-31b5-4757-bbe1-b3b718acb9c2">
-
+<div style="display: flex; justify-content: center;">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 11 44 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/e0e993d8-e079-4b9f-a3b3-a17abeccbb82">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 11 54 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/fedf2d58-a7d1-402a-8253-e43eee0669c3">
+</div>
+<div style="display: flex; justify-content: center;">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 03 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/117ce5cd-2b7a-4e01-92f2-5b8e080ef32c">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 15 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/541807bf-b4c0-4acd-858e-fedea357bff1">
+</div>
+<div style="display: flex; justify-content: center;">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 30 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/f4a03781-70ee-4deb-abc3-6c33806c4c70">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 43 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/086e8a70-dd49-4910-a26e-bac42ecfa5c5">
+</div>
+<div style="display: flex; justify-content: center;">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 58 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/63afc19f-3fa9-461e-bba8-6a49ee626043">
+    <img width="450" alt="Screen Shot 2024-02-24 at 12 16 10 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/69294924-31b5-4757-bbe1-b3b718acb9c2">
+</div>
 
 **Analysis**
 
