@@ -99,6 +99,13 @@ Understanding our users is crucial to designing an app that truly resonates with
     <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/295dabfe-57c0-466a-94f3-a7706cace236" alt="User Personas" width="100%"/>
 </div>
 
+### User Scenario
+Our user journey map illustrates a day in the life of a senior using the Mind Buddy app. The journey begins with a reminder notification, prompting the user to engage with the app and take their medication. Each action, from taking medication to checking the day's to-do list, is carefully logged and designed to evoke a sense of accomplishment and readiness. As the user progresses through scheduled tasks, the app provides both structure and flexibility, allowing for unexpected events, like a reminder for a delightful video call with a grandchild. The day concludes with a refreshing walk, suggested by the app, fulfilling the user's need for physical activity and exposure to sunlight. Throughout the day, the user’s emotional state is carefully considered, transitioning from feelings of initial frustration due to isolation to a sense of independence and confidence. This journey reflects Mind Buddy's commitment to not just task management, but also to enhancing the user's emotional well-being through thoughtful interaction design.
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/1b1c2b2d-2751-48d6-9583-a923dbc1f5f6" alt="Scenario" width="100%"/>
+</div>
+
 ## The Solution
 
 ### Sketches and Wireframes
