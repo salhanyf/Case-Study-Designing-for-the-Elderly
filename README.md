@@ -121,8 +121,12 @@ As for the font family, the team decided to use Helvetica as a primary font and 
 
 ### Mockups
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/97a3e712-a9c2-4895-8045-fb2a50d2a60e" alt="Mockups" width="100%"/>
+</div>
+
 ## Final Thoughts
-" " addresses the critical needs of the elderly for health management and social interaction, promising to make a significant impact on their quality of life.
+Mind Buddy is not just an app; it's a companion, a source of support tool that addresses the critical needs of the elderly for health management and social interaction, and a step towards a more inclusive society. As we move forward, we'll continue to listen, adapt, and evolve, ensuring that our solution remains at the forefront of empowering the elderly to live their best lives with independence and dignity."
 
 ## References
 https://en.wikipedia.org/wiki/Tahoma_%28typeface%29 <br>
