@@ -96,7 +96,7 @@ These findings will be instrumental in the design and development phases of Mind
 Understanding our users is crucial to designing an app that truly resonates with their daily lives. To ensure Mind Buddy is as user-friendly and effective as possible, we've created detailed personas representing our user base. These personas help us to empathize with the users' needs, preferences, and challenges. They guide our design decisions, feature development, and overall user experience strategy. Below, we introduce three personas who embody the core audience of Mind Buddy, each with their own unique backgrounds, goals, and interactions with technology.
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/blob/main/assets/img/Untitled%20(Copy).png" alt="User Personas" width="100%"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/295dabfe-57c0-466a-94f3-a7706cace236" alt="User Personas" width="100%"/>
 </div>
 
 ## The Solution
