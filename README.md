@@ -56,7 +56,7 @@ Our questionnaire consisted of the following questions:
 After conducting our surveys we observed the following results:
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/22128e11-6a18-40ec-9370-9b9d5ae4a1ac" alt="Question 1" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/22128e11-6a18-40ec-9370-9b9d5ae4a1ac" alt="Question 1" width="50%" style="margin-right"/>
     <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/34dab1b4-948a-4e7e-82c6-2629759bdb2b" alt="Question 2" width="50%" style="margin-left: 10px;"/>
 </div>
 
