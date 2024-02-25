@@ -56,20 +56,28 @@ Our questionnaire consisted of the following questions:
 After conducting our surveys we observed the following results:
 
 <div style="display: flex; justify-content: center;">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 11 44 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/e0e993d8-e079-4b9f-a3b3-a17abeccbb82">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 11 54 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/fedf2d58-a7d1-402a-8253-e43eee0669c3">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/22128e11-6a18-40ec-9370-9b9d5ae4a1ac" alt="Question 1" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/34dab1b4-948a-4e7e-82c6-2629759bdb2b" alt="Question 2" width="50%" style="margin-left: 10px;"/>
 </div>
+
 <div style="display: flex; justify-content: center;">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 03 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/117ce5cd-2b7a-4e01-92f2-5b8e080ef32c">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 15 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/541807bf-b4c0-4acd-858e-fedea357bff1">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/24a89e9e-789f-499d-b383-2a5bdfdca248" alt="Question 3" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/86d3ddf3-5d8c-4e23-98d4-b0cfcd4320e1" alt="Question 4" width="50%" style="margin-left: 10px;"/>
 </div>
+
 <div style="display: flex; justify-content: center;">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 30 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/f4a03781-70ee-4deb-abc3-6c33806c4c70">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 43 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/086e8a70-dd49-4910-a26e-bac42ecfa5c5">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/8f888f34-fe2d-4c40-b521-b3b6811e299b" alt="Question 5" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/ee496ae4-1dd5-49e3-b6aa-bfd6721eedc1" alt="Question 6" width="50%" style="margin-left: 10px;"/>
 </div>
+
 <div style="display: flex; justify-content: center;">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 12 58 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/63afc19f-3fa9-461e-bba8-6a49ee626043">
-    <img width="450" alt="Screen Shot 2024-02-24 at 12 16 10 PM" src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/123763001/69294924-31b5-4757-bbe1-b3b718acb9c2">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/a489acfc-75e2-4ff8-ab7e-8fe569657e83" alt="Question 7" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/563fdfe2-e28f-46ea-8e1b-a1f2527797bf" alt="Question 8" width="50%" style="margin-left: 10px;"/>
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/30d8823a-61e5-4b30-a702-c53855e02d84" alt="Question 9" width="50%" style="margin-right: 10px;"/>
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/893932bd-d7b8-4074-9f4c-417541daca39" alt="Question 10" width="50%" style="margin-left: 10px;"/>
 </div>
 
 **Analysis**
