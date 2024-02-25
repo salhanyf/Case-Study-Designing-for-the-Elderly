@@ -44,14 +44,16 @@ In an effort to tailor the Mind Buddy app to the specific needs and preferences 
 * Survey Execution: The surveys were conducted in person, with team members assisting participants as needed to ensure clarity and comfort, thereby enhancing the reliability of the collected data.
 
 Our questionnaire consisted of the following questions:
-1. Do you use a smartphone or tablet?
-2. Do you find current apps easy to use?
-3. Are you currently taking medication that you need to take regularly?
-4. Would you use an app that reminds you to take your medication?
-5. Would you be interested in an app that suggests daily exercises based on your health conditions?
-6. Would you use a feature within an app to easily video call with family and friends?
-7. Do you enjoy puzzles or games that challenge your mind?
-8. What is the most important feature you look for in an app? (Open-ended, summarized responses)
+1. Do you regularly use a smartphone?
+2. How user-friendly do you find most apps?
+3. Are you on a medication that requires routine administration?
+4. Would an app that offers medication reminders be of interest to you?
+5. How likely are you to use an app that provides exercise suggestions tailored to your health needs?
+6. Would a feature that simplifies video calls with your loved ones appeal to you?
+7. Do mental puzzles and games that stimulate your brain interest you?
+8. Since the pandemic, have you felt a need for more health and wellness support through technology?
+9. How has the pandemic affected your social interactions?
+10. What do you prioritize most in an app's features?
 
 After conducting our surveys we observed the following results:
 
