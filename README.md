@@ -83,7 +83,8 @@ The responses to the survey questions reveal significant insights into the prefe
 These findings will be instrumental in the design and development phases of Mind Buddy, ensuring that the app not only meets the expressed needs of its intended user base but also provides a seamless and enjoyable user experience.
 
 ### User Personas
-We created personas representing typical users, including their needs, challenges, and how our app could enhance their daily routines.
+Understanding our users is crucial to designing an app that truly resonates with their daily lives. To ensure Mind Buddy is as user-friendly and effective as possible, we've created detailed personas representing our user base. These personas help us to empathize with the users' needs, preferences, and challenges. They guide our design decisions, feature development, and overall user experience strategy. Below, we introduce three personas who embody the core audience of Mind Buddy, each with their own unique backgrounds, goals, and interactions with technology.
+
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/acdce860-e4b2-4b3a-acc8-c87f9ed4bab2" alt="User Personas" width="100%"/>
 </div>
@@ -92,8 +93,9 @@ We created personas representing typical users, including their needs, challenge
 
 ### Sketches and Wireframes
 To develope the project, initial sketches and wireframes were needed to layout the app's basic structure, navigation, and functionality.
-
-![Initial Sketches](https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/2438c8c2-6da0-4cf8-994f-186a30852af0)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/salhanyf/Case-Study-Designing-for-the-Elderly/assets/49493059/2438c8c2-6da0-4cf8-994f-186a30852af0" alt="Initial Sketches" width="100%"/>
+</div>
 
 ### Colours and Fonts
 Our design focuses on simplicity and accessibility. before creating the mockups, we focused on having the appropriate color pallete and font family to ensure visual comfort and accessibility for the eldery users. The selected colors are not only aesthetically pleasing but also carry a deeper resonance with the app's core functions of health and social connection. Our palette includes a serene soft blue, invoking a sense of calm and reliability. Complementing this is a warm beige, offering a neutral backdrop that send out warmth and welcome. In addition, the light green in the pallete reflects vitality and harmony, essential for an app centered on health like Mind Buddy.
